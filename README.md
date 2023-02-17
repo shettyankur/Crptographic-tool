@@ -12,4 +12,4 @@ RSA encryption and decryption
 
 RSA Signature
 
-SHA-256 hashing
+Cryptographic hash function (SHA-256)
