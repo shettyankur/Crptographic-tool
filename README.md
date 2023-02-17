@@ -1,4 +1,4 @@
-# Crptographic-tool
+# Cryptographic-tool
 
 
 Java Implementation of symmetric & asymmetric cryptographic program such as encryption, decryption, signature verification, hash.
